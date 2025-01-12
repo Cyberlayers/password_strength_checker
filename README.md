@@ -22,7 +22,7 @@ This Python tool analyzes password strength and estimates the **time to crack** 
 This project is licensed under the **MIT License**.
 
 ## 🎯 Author:
-Developed by [Cyberlayers](https://github.com/Cyberlayers).
+Developed by [Kudzaishe Nicky Zhou](https://github.com/Cyberlayers).
 
 ## 🔗 GitHub Repository:
 [password_strength_checker](https://github.com/Cyberlayers/password_strength_checker)
